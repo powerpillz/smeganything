@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/smeg_anything" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
