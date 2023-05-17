@@ -10,3 +10,5 @@ tqdm
 gdown
 xyzservices
 pyproj
+pytorch
+torchvision
